@@ -6,3 +6,5 @@ This repository contains a complete Python toolbox designed to process high-reso
 
 The workflow integrates instrumental quality control, a fall-rate-dependent dynamic lag correction, specialized Locally Weighted Scatterplot Smoothing (LOESS) filtering, and a final offset calibration. 
 The folder figures include the codes the reproduce the figures associated to the paper "A new open-source Python Toolbox for Oceanic Moving Vessel Profiler Data Processing" Verger-Miralles et al.
+
+Author: Elisabet Verger-Miralles
